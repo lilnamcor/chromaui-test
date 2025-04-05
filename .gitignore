@@ -1,0 +1,11 @@
+**/.next
+
+node_modules
+.yarn
+**/.turbo
+**/.DS_STORE
+.env
+**/dist
+**/.pnp.cjs
+**/.pnp.loader.mjs
+**/storybook-static
