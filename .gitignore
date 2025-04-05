@@ -9,3 +9,4 @@ node_modules
 **/.pnp.cjs
 **/.pnp.loader.mjs
 **/storybook-static
+build-storybook.log

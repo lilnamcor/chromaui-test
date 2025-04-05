@@ -25,3 +25,8 @@ jobs:
         uses: chromaui/action@latest
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
+          onlyChanged: true
+          traceChanged: true
+          zip: true
+          exitZeroOnChanges: true
+          exitOnceUploaded: true
